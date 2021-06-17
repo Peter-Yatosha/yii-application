@@ -28,6 +28,8 @@ class VideoController extends Controller
                     [
                         'allow' => true,
                         'roles' => ['@']
+
+
                     ]
                 ]
             ],
